@@ -1,4 +1,11 @@
 {
+  "name": "vite-test-platform",
   "private": true,
-  "workspaces": ["vite-test-component", "vite-test-project"]
+  "workspaces": [
+    "vite-test-component",
+    "vite-test-project"
+  ],
+  "devDependencies": {
+    "lerna": "^5.5.0"
+  }
 }
