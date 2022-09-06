@@ -1,0 +1,4 @@
+{
+  "private": true,
+  "workspaces": ["vite-test-component", "vite-test-project"]
+}

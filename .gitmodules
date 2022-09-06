@@ -1,0 +1,6 @@
+[submodule "vite-test-component"]
+	path = vite-test-component
+	url = https://github.com/mohofo7/vite-test-component
+[submodule "vite-test-project"]
+	path = vite-test-project
+	url = https://github.com/mohofo7/vite-test-project
